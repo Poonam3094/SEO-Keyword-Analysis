@@ -33,6 +33,5 @@ This project was completed as part of my Data Analysis Masters course internship
 •	Learned effective data cleaning and transformation techniques
 •	Developed an SEO strategy based on keyword insights
 
-## Submissions
-•	
+
 
